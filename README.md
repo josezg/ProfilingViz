@@ -13,6 +13,8 @@ Automated profiling and Exploratory Data Analysis of a .csv dataset using Python
 - [License](#license)
     
 ## Run Locally
+- Requires Python 3.10
+
 Clone the project
 
 ```bash
